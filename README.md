@@ -43,7 +43,7 @@ LLM Generation
 Grounded Response
 
 
-⸻
+
 
 Key Capabilities
 	•	Enterprise Document Ingestion
@@ -62,7 +62,7 @@ Key Capabilities
 	•	Local LLM inference via Ollama
 	•	Strict context-only prompt design to minimize hallucinations
 
-⸻
+
 
 Tech Stack
 
@@ -88,7 +88,7 @@ Infrastructure
 	•	Docker
 	•	Local LLM deployment
 
-⸻
+
 
 Repository Structure
 
@@ -107,7 +107,7 @@ main.py                  FastAPI application
 auth.py                  Authentication layer
 
 
-⸻
+
 
 Contributors
 
