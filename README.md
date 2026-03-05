@@ -6,7 +6,7 @@ Production-grade Retrieval-Augmented Generation (RAG) system designed for enterp
 The system transforms heterogeneous technical documentation (PDFs, images, tables, manuals) into a semantic knowledge layer using OCR, layout detection, embeddings, and hybrid retrieval.
 A locally deployed LLM then generates context-grounded answers with minimal hallucination, enabling reliable knowledge access across large document repositories.
 
-⸻
+
 
 Architecture Overview
 
